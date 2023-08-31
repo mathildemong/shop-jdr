@@ -1,6 +1,11 @@
 .App {
-  text-align: center;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
 }
+
 
 .App-logo {
   height: 40vmin;
